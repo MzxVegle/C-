@@ -1,0 +1,16 @@
+D:\数据库\Student\管理系统\Login\Login\bin\Debug\Login.exe
+D:\数据库\Student\管理系统\Login\Login\bin\Debug\Login.pdb
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.deleteFrm.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.findFrm.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.RegisterFrm.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.systemFrm.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.LoginFrm.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.Properties.Resources.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.exe
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.pdb
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.AlterpasswordFrm.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.SandT.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.selectClass.resources
+D:\数据库\Student\管理系统\Login\Login\obj\x86\Debug\Login.check.resources
